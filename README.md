@@ -1,6 +1,6 @@
 <div align="center" id="trendradar">
 
-> **📢 公告：** **v4.0.0** 版本已发布！包含存储架构重构、数据库优化、模块化改进等重大更新
+> **📢 公告：** **v4.0.0** 版本 已发布！包含存储架构重构、数据库优化、模块化改进等重大更新
 
 <a href="https://github.com/sansan0/TrendRadar" title="TrendRadar">
   <img src="/_image/banner.webp" alt="TrendRadar Banner" width="80%">
