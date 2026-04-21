@@ -3646,3 +3646,6 @@ GPL-3.0 License
 [🔝 回到顶部](#trendradar)
 
 </div>
+## Support
+
+If this project saves you time, you can support future maintenance here: [Buy Me a Coffee](https://www.buymeacoffee.com/aolingge).
